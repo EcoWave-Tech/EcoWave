@@ -55,3 +55,120 @@
   border-radius: 50%;
 }
 
+@media (min-width: 300px) {
+  #card {
+    margin-left: -165px;
+  }
+}
+
+@media (min-width: 576px) {
+  #card {
+    margin-left: -279px;
+  }
+}
+
+@media (min-width: 768px) {
+  #card {
+    margin-left: -187px;
+  }
+}
+
+@media (min-width: 576px) {
+  #card23 {
+    margin-right: -260px;
+  }
+}
+
+@media (max-width: 400px) {
+  #card23 {
+    margin-right: -182px;
+  }
+}
+
+@media (min-width: 768px) {
+  #fasd {
+    margin-right: -18px;
+  }
+}
+
+@media (min-width: 300px) {
+  #help2 {
+    margin-top: 38px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #help2 {
+    margin-top: 0px;
+  }
+}
+
+@media (min-width: 768px) {
+  #hep23 {
+    margin-top: 92px;
+  }
+}
+
+@media (min-width: 576px) {
+  #hep23 {
+    margin-top: 38px;
+  }
+}
+
+@media (min-width: 300px) {
+  #hep23 {
+    margin-top: 20px;
+  }
+}
+
+@media (min-width: 992px) {
+  #hep23 {
+    margin-top: 76px;
+  }
+}
+
+@media (min-width: 768px) {
+  #hep23 {
+    margin-top: 86px;
+  }
+}
+
+#hep23 {
+}
+
+@media (min-width: 768px) {
+  #hep23 {
+    margin-top: 84px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #hep23 {
+    margin-top: 42px;
+  }
+}
+
+@media (min-width: 576px) {
+  #btn23 {
+    margin-left: 126px;
+  }
+}
+
+@media (max-width: 400px) {
+  #btn23 {
+    margin-left: 50px;
+  }
+}
+
+@media (min-width: 992px) {
+  #btn23 {
+    margin-left: 92px;
+  }
+}
+
+@media (min-width: 768px) {
+  #btn23 {
+    margin-left: 38px;
+  }
+}
+
